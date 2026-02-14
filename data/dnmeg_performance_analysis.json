@@ -1,0 +1,368 @@
+{
+  "page_load_times": {
+    "homepage": {
+      "url": "https://dnmeg.com",
+      "load_time": 0.987,
+      "page_size_kb": 180.23,
+      "status_code": 200,
+      "response_headers": {
+        "Date": "Sat, 14 Feb 2026 05:43:29 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Content-Encoding": "gzip",
+        "etag": "W/\"page_cache:77269270819:IndexController:aca31db99cc74d1f48db3102c7972214\"",
+        "link": "<https://cdn.shopify.com>; rel=\"preconnect\", <https://cdn.shopify.com>; rel=\"preconnect\"; crossorigin, <//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=600>; as=\"image\"; rel=\"preload\"; imagesrcset=\"//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=80 80w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=120 120w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=160 160w\"; imagesizes=\"(max-width: 160px) 50vw, 80px\"",
+        "set-cookie": "localization=EG; path=/; expires=Sun, 14 Feb 2027 05:43:29 GMT, _shopify_y=0f3da318-1543-4f84-8cdb-472651677453; domain=dnmeg.com; path=/; expires=Sun, 14 Feb 2027 11:43:29 GMT; SameSite=Lax, _shopify_s=0fed564d-162a-4902-8fc6-51fe98201a03; domain=dnmeg.com; path=/; expires=Sat, 14 Feb 2026 06:13:29 GMT; SameSite=Lax, _shopify_essential=:AZxarPA9AAEAcn7AI29JuNnFQqri64FqbYSy0Ox96Edu0bUQantjipBrQjSZFXSWU3481XXIBQ0jw2A3wX4TIfoZVQyWAAS477hqEMwVz9AvknQkUIuWsOexFmnbI8n3sr1wCeog42STqKFACTvcGXQ7PDYGAIBZ_UJQ8wTfmwYc9MdAZ2PY22vCh2enc-gEc4DhmRBt_T_CCSEQEmggD9cD-tP9M7DsdvS2SxIbx70t35tA7ogCD02nog24KXSSo-L8V4aismoLP8xbTxYimYIgFGfe4AJYAw-RrQAibecoble6IYK4oTe5imV7okKi6N3fgnnOdA5Qx8R1lQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax, _shopify_analytics=:AZxarPBPAAEA7i3GqI_Sm6toEbEETPNhT0o-7GJRuz1LUrdl79fg9fI8SqAFQ3FJ7TuW9KU:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax",
+        "speculation-rules": "\"/cdn/shopifycloud/storefront/assets/storefront/storefronts.specrules-1ec91466.json\"",
+        "shopify-complexity-score": "300",
+        "x-frame-options": "DENY",
+        "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+        "strict-transport-security": "max-age=7889238",
+        "x-shopid": "77269270819",
+        "vary": "Accept, accept-encoding",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "content-language": "en-EG",
+        "powered-by": "Shopify",
+        "server-timing": "processing;dur=33;desc=\"gc:2\", db;dur=12, asn;desc=\"8452\", edge;desc=\"MRS\", country;desc=\"EG\", theme;desc=\"174280966435\", pageType;desc=\"index\", servedBy;desc=\"55ds\", requestID;desc=\"2b96b7dc-11c4-48d2-9549-9cd060b607bf-1771047809\", _y;desc=\"0f3da318-1543-4f84-8cdb-472651677453\", _s;desc=\"0fed564d-162a-4902-8fc6-51fe98201a03\", _cmp;desc=\"3.AMPS_EGGH_f_f_Cdyrit**S2adLPAabHQRmQ\", compressionLevel;desc=\"5\", cfRequestDuration;dur=93.999863",
+        "x-dc": "gcp-europe-west4,gcp-europe-west1,gcp-europe-west1",
+        "x-request-id": "2b96b7dc-11c4-48d2-9549-9cd060b607bf-1771047809",
+        "cf-cache-status": "DYNAMIC",
+        "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=eRXKydu8WNKW0XDeOcbpG%2Bs%2Flq945wRd2cK99MRKADGqCG9EONEs7jAx8FzZWJYrV2Q%2F0FgSrUaUL6trYLpRK4j70Zdv%2BRck4Q3KUjG9nXjt2o3DT%2B6RLqLWqw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "NEL": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-Download-Options": "noopen",
+        "Server": "cloudflare",
+        "CF-RAY": "9cda3f867f7070eb-MRS"
+      }
+    },
+    "tee-v1": {
+      "url": "https://dnmeg.com/products/tee-v1",
+      "load_time": 0.824,
+      "page_size_kb": 155.84,
+      "status_code": 200,
+      "response_headers": {
+        "Date": "Sat, 14 Feb 2026 05:43:29 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Content-Encoding": "gzip",
+        "set-cookie": "localization=EG; path=/; expires=Sun, 14 Feb 2027 05:43:29 GMT; SameSite=Lax, _shopify_y=0f3da318-1543-4f84-8cdb-472651677453; domain=dnmeg.com; path=/; expires=Sun, 14 Feb 2027 11:43:29 GMT; SameSite=Lax, _shopify_s=0fed564d-162a-4902-8fc6-51fe98201a03; domain=dnmeg.com; path=/; expires=Sat, 14 Feb 2026 06:13:29 GMT; SameSite=Lax",
+        "link": "<https://cdn.shopify.com>; rel=\"preconnect\", <https://cdn.shopify.com>; rel=\"preconnect\"; crossorigin, <//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=600>; as=\"image\"; rel=\"preload\"; imagesrcset=\"//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=80 80w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=120 120w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=160 160w\"; imagesizes=\"(max-width: 160px) 50vw, 80px\"",
+        "speculation-rules": "\"/cdn/shopifycloud/storefront/assets/storefront/storefronts.specrules-1ec91466.json\"",
+        "etag": "W/\"page_cache:77269270819:ProductDetailsController:9c6acd2efe4e8bccb91c7dea4e4fbbc2\"",
+        "shopify-complexity-score": "1440",
+        "x-frame-options": "DENY",
+        "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=7889238",
+        "x-shopid": "77269270819",
+        "vary": "Accept, accept-encoding",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "content-language": "en-EG",
+        "powered-by": "Shopify",
+        "server-timing": "processing;dur=149;desc=\"gc:7\", db;dur=52, db_async;dur=2.499, parse;dur=1, render;dur=53, asn;desc=\"8452\", edge;desc=\"MRS\", country;desc=\"EG\", theme;desc=\"174280966435\", pageType;desc=\"product\", servedBy;desc=\"5jkp\", requestID;desc=\"475e37ce-a01d-40c6-beef-a1ace08faaba-1771047809\", _y;desc=\"0f3da318-1543-4f84-8cdb-472651677453\", _s;desc=\"0fed564d-162a-4902-8fc6-51fe98201a03\", _cmp;desc=\"3.AMPS_EGGH_f_f_Cdyrit**S2adLPAabHQRmQ_%7B%7D\", compressionLevel;desc=\"5\", compressionTime;dur=6.155, cfRequestDuration;dur=219.000101",
+        "x-dc": "gcp-europe-west4,gcp-europe-west1,gcp-europe-west1",
+        "x-request-id": "475e37ce-a01d-40c6-beef-a1ace08faaba-1771047809",
+        "cf-cache-status": "DYNAMIC",
+        "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=JXR%2Fan1vmobIAc9Pcw0Ju5eLG%2BCrk4JJ4gOm1wqIUQVcXo%2FLwDFOt3lH3G4kxkqof7TuqY1X83s8%2FDty7ecQoICCMbfgVAFAvbWbLyGYpoaGL7N6yF0AaUIJPw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "NEL": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-Download-Options": "noopen",
+        "Server": "cloudflare",
+        "CF-RAY": "9cda3f87dfa170eb-MRS"
+      }
+    },
+    "tee-v2": {
+      "url": "https://dnmeg.com/products/tee-v2",
+      "load_time": 0.223,
+      "page_size_kb": 156.52,
+      "status_code": 200,
+      "response_headers": {
+        "Date": "Sat, 14 Feb 2026 05:43:30 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Content-Encoding": "gzip",
+        "etag": "W/\"page_cache:77269270819:ProductDetailsController:acd6bc000d781423807d0a8e2467465c\"",
+        "link": "<https://cdn.shopify.com>; rel=\"preconnect\", <https://cdn.shopify.com>; rel=\"preconnect\"; crossorigin, <//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=600>; as=\"image\"; rel=\"preload\"; imagesrcset=\"//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=80 80w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=120 120w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=160 160w\"; imagesizes=\"(max-width: 160px) 50vw, 80px\"",
+        "speculation-rules": "\"/cdn/shopifycloud/storefront/assets/storefront/storefronts.specrules-1ec91466.json\"",
+        "set-cookie": "localization=EG; path=/; expires=Sun, 14 Feb 2027 05:43:30 GMT, _shopify_y=0f3da318-1543-4f84-8cdb-472651677453; domain=dnmeg.com; path=/; expires=Sun, 14 Feb 2027 11:43:30 GMT; SameSite=Lax, _shopify_s=0fed564d-162a-4902-8fc6-51fe98201a03; domain=dnmeg.com; path=/; expires=Sat, 14 Feb 2026 06:13:30 GMT; SameSite=Lax",
+        "shopify-complexity-score": "300",
+        "x-frame-options": "DENY",
+        "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=7889238",
+        "x-shopid": "77269270819",
+        "vary": "Accept, accept-encoding",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "content-language": "en-EG",
+        "powered-by": "Shopify",
+        "server-timing": "processing;dur=34;desc=\"gc:4\", db;dur=15, asn;desc=\"8452\", edge;desc=\"MRS\", country;desc=\"EG\", theme;desc=\"174280966435\", pageType;desc=\"product\", servedBy;desc=\"55ds\", requestID;desc=\"e7c272d4-a775-4e16-985b-8675d7cc3456-1771047810\", _y;desc=\"0f3da318-1543-4f84-8cdb-472651677453\", _s;desc=\"0fed564d-162a-4902-8fc6-51fe98201a03\", _cmp;desc=\"3.AMPS_EGGH_f_f_Cdyrit**S2adLPAabHQRmQ_%7B%7D\", compressionLevel;desc=\"5\", cfRequestDuration;dur=97.999811",
+        "x-dc": "gcp-europe-west4,gcp-europe-west1,gcp-europe-west1",
+        "x-request-id": "e7c272d4-a775-4e16-985b-8675d7cc3456-1771047810",
+        "cf-cache-status": "DYNAMIC",
+        "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=1QxuIdmT257WAQ9FBN1zPc95VO9%2B3U%2F9UGj9n8ge%2BTcAU7Nxm0pDpSd%2F2CVkoj7SC2N5h%2FliYj8Qkm0rxNOef9r%2BVlLOlqC14%2FcZLGYZD5%2FJtNDXYdyTdrQPLQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "NEL": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-Download-Options": "noopen",
+        "Server": "cloudflare",
+        "CF-RAY": "9cda3f8d083570eb-MRS"
+      }
+    },
+    "jeans-1-9": {
+      "url": "https://dnmeg.com/products/jeans-1-9",
+      "load_time": 0.554,
+      "page_size_kb": 163.61,
+      "status_code": 200,
+      "response_headers": {
+        "Date": "Sat, 14 Feb 2026 05:43:30 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Content-Encoding": "gzip",
+        "etag": "W/\"page_cache:77269270819:ProductDetailsController:e52d2c4fa751f560d05d9223edf8a0d5\"",
+        "link": "<https://cdn.shopify.com>; rel=\"preconnect\", <https://cdn.shopify.com>; rel=\"preconnect\"; crossorigin, <//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=600>; as=\"image\"; rel=\"preload\"; imagesrcset=\"//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=80 80w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=120 120w, //dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=160 160w\"; imagesizes=\"(max-width: 160px) 50vw, 80px\"",
+        "speculation-rules": "\"/cdn/shopifycloud/storefront/assets/storefront/storefronts.specrules-1ec91466.json\"",
+        "set-cookie": "localization=EG; path=/; expires=Sun, 14 Feb 2027 05:43:30 GMT, _shopify_y=0f3da318-1543-4f84-8cdb-472651677453; domain=dnmeg.com; path=/; expires=Sun, 14 Feb 2027 11:43:30 GMT; SameSite=Lax, _shopify_s=0fed564d-162a-4902-8fc6-51fe98201a03; domain=dnmeg.com; path=/; expires=Sat, 14 Feb 2026 06:13:30 GMT; SameSite=Lax",
+        "shopify-complexity-score": "330",
+        "x-frame-options": "DENY",
+        "content-security-policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=7889238",
+        "x-shopid": "77269270819",
+        "vary": "Accept, accept-encoding",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "content-language": "en-EG",
+        "powered-by": "Shopify",
+        "server-timing": "processing;dur=35;desc=\"gc:2\", db;dur=13, asn;desc=\"8452\", edge;desc=\"MRS\", country;desc=\"EG\", theme;desc=\"174280966435\", pageType;desc=\"product\", servedBy;desc=\"w2m9\", requestID;desc=\"2243457b-aefd-443a-8021-bc635f0bf788-1771047810\", _y;desc=\"0f3da318-1543-4f84-8cdb-472651677453\", _s;desc=\"0fed564d-162a-4902-8fc6-51fe98201a03\", _cmp;desc=\"3.AMPS_EGGH_f_f_Cdyrit**S2adLPAabHQRmQ_%7B%7D\", compressionLevel;desc=\"5\", cfRequestDuration;dur=96.999884",
+        "x-dc": "gcp-europe-west4,gcp-europe-west1,gcp-europe-west1",
+        "x-request-id": "2243457b-aefd-443a-8021-bc635f0bf788-1771047810",
+        "cf-cache-status": "DYNAMIC",
+        "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=B%2BWZ7X%2BJk1Rr7SVlw6Qx69x4EUfv22Zb%2BECGnDilZZwshTKGA%2FIzw8epBbKF0mC%2FkV80x0qPm5DG397iOxusPR2vr938rLLmCowOuA7AhwpqelhnbKJijvZBaw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "NEL": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-Download-Options": "noopen",
+        "Server": "cloudflare",
+        "CF-RAY": "9cda3f8f387470eb-MRS"
+      }
+    }
+  },
+  "image_analysis": {
+    "total_images": 15,
+    "optimized_images": 0,
+    "large_images": 1,
+    "missing_alt": 10,
+    "external_images": 0,
+    "image_details": [
+      {
+        "src": "//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176",
+        "alt": "Logo",
+        "has_alt": true,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/speed_logo-ezgif.com-effects.gif?v=1732699176&width=600",
+        "alt": "DNM.EG",
+        "has_alt": true,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/21-front.png?v=1717348025&width=533",
+        "alt": "TEE V1",
+        "has_alt": true,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/21-back.png?v=1717348025&width=533",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/purple-white-face.png?v=1717344916&width=533",
+        "alt": "TEE V2",
+        "has_alt": true,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/tee-back-p.png?v=1717345743&width=533",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/star_back_pants.png?height=80&v=1732697331",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/star_back_pants.png?height=80&v=1732697331",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/star_back_pants.png?height=80&v=1732697331",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/g.jpg?v=1715449408&width=3840",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown",
+        "is_large": true
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/star_back_pants.png?height=80&v=1732697331",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/star_back_pants.png?height=80&v=1732697331",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/star_back_pants.png?height=80&v=1732697331",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/Artboard1_13f8eb19-b5c8-465f-9e97-97274fbc9122.png?v=1715271669&width=533",
+        "alt": "Jeans 2.0",
+        "has_alt": true,
+        "is_external": false,
+        "size_estimate": "unknown"
+      },
+      {
+        "src": "//dnmeg.com/cdn/shop/files/Artboard2.png?v=1715271670&width=533",
+        "alt": "",
+        "has_alt": false,
+        "is_external": false,
+        "size_estimate": "unknown"
+      }
+    ]
+  },
+  "mobile_performance": {
+    "mobile_load_time": 1.136,
+    "viewport_meta": true,
+    "responsive_images": 8,
+    "mobile_navigation": false,
+    "touch_friendly": true,
+    "font_sizes": {
+      "min_font_size": 0,
+      "max_font_size": 0,
+      "average_font_size": 0
+    }
+  },
+  "seo_analysis": {
+    "title": {
+      "exists": true,
+      "content": "DNM.EG",
+      "length": 6,
+      "optimal": false
+    },
+    "meta_description": {
+      "exists": true,
+      "content": "DRESS BEYOND LIMITS.",
+      "length": 20,
+      "optimal": false
+    },
+    "headings": {
+      "h1_count": 1,
+      "h2_count": 4,
+      "h3_count": 6,
+      "structure_ok": true
+    },
+    "images_alt": {
+      "total_images": 15,
+      "with_alt": 5,
+      "percentage": 33.33
+    },
+    "internal_links": {
+      "total": 35,
+      "internal": 31,
+      "external": 4
+    }
+  },
+  "technical_issues": [
+    {
+      "type": "seo",
+      "severity": "medium",
+      "issue": "صور بدون ALT text: 10",
+      "recommendation": "إضافة وصف للصور لتحسين SEO وإمكانية الوصول"
+    },
+    {
+      "type": "performance",
+      "severity": "medium",
+      "issue": "صور كبيرة الحجم: 1",
+      "recommendation": "ضغط الصور وتحسينها للويب"
+    },
+    {
+      "type": "seo",
+      "severity": "high",
+      "issue": "عنوان الصفحة غير محسن",
+      "recommendation": "تحسين عنوان الصفحة ليكون بين 30-60 حرف"
+    },
+    {
+      "type": "seo",
+      "severity": "high",
+      "issue": "وصف الصفحة غير محسن",
+      "recommendation": "تحسين وصف الصفحة ليكون بين 120-160 حرف"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "performance",
+      "priority": "high",
+      "title": "تحسين سرعة التحميل",
+      "description": "تحسين الصور وتقليل حجم الملفات",
+      "expected_impact": "تحسين تجربة المستخدم وتقليل معدل الارتداد",
+      "implementation_difficulty": "medium"
+    },
+    {
+      "category": "seo",
+      "priority": "high",
+      "title": "تحسين عناصر SEO",
+      "description": "تحسين العناوين والأوصاف وإضافة ALT text",
+      "expected_impact": "تحسين ترتيب محركات البحث",
+      "implementation_difficulty": "low"
+    },
+    {
+      "category": "mobile",
+      "priority": "high",
+      "title": "تحسين تجربة الجوال",
+      "description": "إضافة viewport meta tag وتحسين الأزرار لللمس",
+      "expected_impact": "تحسين تجربة المستخدم على الجوال",
+      "implementation_difficulty": "medium"
+    }
+  ]
+}

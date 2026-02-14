@@ -1,0 +1,178 @@
+{
+  "cart_analysis": {
+    "accessible": true,
+    "page_title": "Your Shopping Cart\n – DNM.EG",
+    "cart_items": {
+      "total_items": 0,
+      "items": [],
+      "has_items": false
+    },
+    "cart_functionality": {
+      "update_quantity": false,
+      "remove_item": false,
+      "apply_coupon": false,
+      "continue_shopping": true,
+      "clear_cart": false
+    },
+    "trust_elements": {
+      "security_badges": 0,
+      "payment_icons": 0,
+      "ssl_indicators": 2,
+      "return_policy": 1,
+      "customer_support": 2,
+      "trust_seals": 0
+    },
+    "cross_sell_elements": {
+      "recommendations": false,
+      "upsell_items": 0,
+      "free_shipping_banner": true,
+      "savings_calculator": true,
+      "bundle_offers": true
+    },
+    "checkout_button": {
+      "found": false,
+      "text": "",
+      "type": "",
+      "prominent": false
+    },
+    "cart_summary": {
+      "subtotal": "",
+      "shipping": "",
+      "tax": "",
+      "total": "Estimated total",
+      "savings": "",
+      "currency": ""
+    }
+  },
+  "checkout_process": {
+    "accessible": true,
+    "page_title": "Checkout - DNM.EG",
+    "checkout_steps": {
+      "step_indicators": 0,
+      "current_step": "",
+      "total_steps": 0,
+      "step_names": []
+    },
+    "form_fields": {
+      "customer_info": {
+        "email": false,
+        "first_name": false,
+        "last_name": false,
+        "phone": false
+      },
+      "shipping_address": {
+        "address1": false,
+        "address2": false,
+        "city": false,
+        "country": false,
+        "postal_code": false
+      },
+      "billing_address": {
+        "same_as_shipping": false,
+        "address1": false,
+        "city": false,
+        "country": false
+      },
+      "field_validation": false,
+      "required_fields": 0,
+      "optional_fields": 0
+    },
+    "payment_methods": {
+      "credit_card": false,
+      "paypal": false,
+      "apple_pay": false,
+      "google_pay": false,
+      "cash_on_delivery": false,
+      "bank_transfer": false,
+      "installments": false,
+      "total_methods": 0,
+      "method_details": []
+    },
+    "shipping_options": {
+      "standard_shipping": false,
+      "express_shipping": false,
+      "free_shipping": false,
+      "pickup_option": false,
+      "shipping_calculator": false,
+      "total_options": 0,
+      "option_details": []
+    },
+    "progress_indicator": {
+      "has_progress": true,
+      "current_step": 0,
+      "total_steps": 0,
+      "progress_bar": false,
+      "step_numbers": false
+    },
+    "trust_elements": {
+      "ssl_badge": true,
+      "payment_security": false,
+      "privacy_policy": false,
+      "terms_of_service": false,
+      "return_policy": false,
+      "support_contact": false,
+      "trust_seals": 0
+    },
+    "error_handling": {
+      "error_messages": false,
+      "validation_errors": true,
+      "payment_errors": false,
+      "shipping_errors": false,
+      "error_display": "none"
+    }
+  },
+  "payment_options": {},
+  "shipping_analysis": {},
+  "friction_points": [
+    {
+      "stage": "cart",
+      "severity": "high",
+      "issue": "No items in cart analysis",
+      "impact": "Cannot analyze cart functionality"
+    },
+    {
+      "stage": "cart",
+      "severity": "critical",
+      "issue": "No checkout button found",
+      "impact": "Users cannot proceed to checkout"
+    },
+    {
+      "stage": "checkout",
+      "severity": "high",
+      "issue": "Limited payment options: 0 methods",
+      "impact": "Reduced conversion due to payment limitations"
+    },
+    {
+      "stage": "checkout",
+      "severity": "medium",
+      "issue": "Limited shipping options: 0 options",
+      "impact": "Reduced flexibility for customers"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "cart",
+      "priority": "critical",
+      "title": "Add prominent checkout button",
+      "description": "Ensure clear and visible checkout button in cart",
+      "expected_impact": "Improve cart-to-checkout conversion",
+      "implementation_difficulty": "low"
+    },
+    {
+      "category": "checkout",
+      "priority": "high",
+      "title": "Expand payment options",
+      "description": "Add more payment methods (currently 0)",
+      "expected_impact": "Increase conversion by offering preferred payment methods",
+      "implementation_difficulty": "medium"
+    },
+    {
+      "category": "checkout",
+      "priority": "medium",
+      "title": "Add free shipping option",
+      "description": "Offer free shipping for orders above certain threshold",
+      "expected_impact": "Increase average order value",
+      "implementation_difficulty": "low"
+    }
+  ]
+}

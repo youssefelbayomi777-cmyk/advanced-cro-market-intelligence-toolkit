@@ -1,0 +1,1112 @@
+{
+  "user_sessions": [
+    {
+      "user_type": "returning_customer",
+      "timestamp": "2026-02-14T07:46:19.612208",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.93,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.27,
+          "success": true,
+          "products_found": 11
+        }
+      ],
+      "total_time": 1.24,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "product_browse",
+      "abandonment_reason": "Left products page"
+    },
+    {
+      "user_type": "bargain_hunter",
+      "timestamp": "2026-02-14T07:46:21.352317",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.21,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.25,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "returning_customer",
+      "timestamp": "2026-02-14T07:46:22.106475",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.22,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.24,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-black",
+          "time_spent": 0.34,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 28,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable"
+            ],
+            "shipping_info": false
+          }
+        }
+      ],
+      "total_time": 0.85,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "product_view",
+      "abandonment_reason": "No purchase intent"
+    },
+    {
+      "user_type": "brand_loyal",
+      "timestamp": "2026-02-14T07:46:23.461304",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.2,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.28,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.46,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 20,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Sold out"
+            ],
+            "shipping_info": false
+          }
+        }
+      ],
+      "total_time": 0.99,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "product_view",
+      "abandonment_reason": "No purchase intent"
+    },
+    {
+      "user_type": "brand_loyal",
+      "timestamp": "2026-02-14T07:46:24.956314",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.22,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.24,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/jersey-1-3",
+          "time_spent": 0.42,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 17,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable"
+            ],
+            "shipping_info": false
+          }
+        },
+        {
+          "step": 4,
+          "action": "add_to_cart",
+          "url": "https://dnmeg.com/products/jersey-1-3",
+          "time_spent": 0.5,
+          "success": false,
+          "issues": [
+            "No add to cart button found"
+          ]
+        }
+      ],
+      "total_time": 0.98,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "add_to_cart",
+      "abandonment_reason": [
+        "No add to cart button found"
+      ]
+    },
+    {
+      "user_type": "brand_loyal",
+      "timestamp": "2026-02-14T07:46:26.437477",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.21,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.28,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.33,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 20,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Sold out"
+            ],
+            "shipping_info": false
+          }
+        },
+        {
+          "step": 4,
+          "action": "add_to_cart",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.5,
+          "success": false,
+          "issues": [
+            "No add to cart button found"
+          ]
+        }
+      ],
+      "total_time": 0.9,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "add_to_cart",
+      "abandonment_reason": [
+        "No add to cart button found"
+      ]
+    },
+    {
+      "user_type": "bargain_hunter",
+      "timestamp": "2026-02-14T07:46:27.837427",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.21,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.26,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/cap-1-2",
+          "time_spent": 0.29,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 8,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": false,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable"
+            ],
+            "shipping_info": false
+          }
+        },
+        {
+          "step": 4,
+          "action": "add_to_cart",
+          "url": "https://dnmeg.com/products/cap-1-2",
+          "time_spent": 0.5,
+          "success": false,
+          "issues": [
+            "No add to cart button found"
+          ]
+        }
+      ],
+      "total_time": 0.83,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "add_to_cart",
+      "abandonment_reason": [
+        "No add to cart button found"
+      ]
+    },
+    {
+      "user_type": "returning_customer",
+      "timestamp": "2026-02-14T07:46:29.165697",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.21,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.31,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/sleeveless-1-0",
+          "time_spent": 0.45,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 11,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable"
+            ],
+            "shipping_info": false
+          }
+        },
+        {
+          "step": 4,
+          "action": "add_to_cart",
+          "url": "https://dnmeg.com/products/sleeveless-1-0",
+          "time_spent": 0.5,
+          "success": false,
+          "issues": [
+            "No add to cart button found"
+          ]
+        }
+      ],
+      "total_time": 1.04,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "add_to_cart",
+      "abandonment_reason": [
+        "No add to cart button found"
+      ]
+    },
+    {
+      "user_type": "brand_loyal",
+      "timestamp": "2026-02-14T07:46:30.708229",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.22,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.24,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.47,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 20,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Sold out"
+            ],
+            "shipping_info": false
+          }
+        },
+        {
+          "step": 4,
+          "action": "add_to_cart",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.5,
+          "success": false,
+          "issues": [
+            "No add to cart button found"
+          ]
+        }
+      ],
+      "total_time": 1.02,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "add_to_cart",
+      "abandonment_reason": [
+        "No add to cart button found"
+      ]
+    },
+    {
+      "user_type": "returning_customer",
+      "timestamp": "2026-02-14T07:46:32.225289",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.21,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.26,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/sleeveless-1-0",
+          "time_spent": 0.34,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 11,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable"
+            ],
+            "shipping_info": false
+          }
+        }
+      ],
+      "total_time": 0.85,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "product_view",
+      "abandonment_reason": "No purchase intent"
+    },
+    {
+      "user_type": "new_visitor",
+      "timestamp": "2026-02-14T07:46:33.577983",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.23,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.28,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/cap-1-2",
+          "time_spent": 0.29,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 8,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": false,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable"
+            ],
+            "shipping_info": false
+          }
+        }
+      ],
+      "total_time": 0.83,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "product_view",
+      "abandonment_reason": "No purchase intent"
+    },
+    {
+      "user_type": "new_visitor",
+      "timestamp": "2026-02-14T07:46:34.908723",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.24,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.28,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "bargain_hunter",
+      "timestamp": "2026-02-14T07:46:35.689634",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.27,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.32,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "bargain_hunter",
+      "timestamp": "2026-02-14T07:46:36.512163",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.19,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.26,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.41,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 20,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Sold out"
+            ],
+            "shipping_info": false
+          }
+        }
+      ],
+      "total_time": 0.91,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "product_view",
+      "abandonment_reason": "No purchase intent"
+    },
+    {
+      "user_type": "new_visitor",
+      "timestamp": "2026-02-14T07:46:37.922614",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.29,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.33,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "new_visitor",
+      "timestamp": "2026-02-14T07:46:38.755040",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.21,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.25,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "returning_customer",
+      "timestamp": "2026-02-14T07:46:39.509761",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.21,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.25,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "bargain_hunter",
+      "timestamp": "2026-02-14T07:46:40.263583",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.22,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.26,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "bargain_hunter",
+      "timestamp": "2026-02-14T07:46:41.027623",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.23,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        }
+      ],
+      "total_time": 0.27,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "homepage",
+      "abandonment_reason": "Bounced immediately"
+    },
+    {
+      "user_type": "returning_customer",
+      "timestamp": "2026-02-14T07:46:41.798032",
+      "journey_steps": [
+        {
+          "step": 1,
+          "action": "homepage_visit",
+          "url": "https://dnmeg.com",
+          "time_spent": 0.28,
+          "success": true,
+          "elements_found": {
+            "navigation_links": 0,
+            "product_cards": 4,
+            "call_to_action_buttons": 14,
+            "trust_signals": 6,
+            "search_box": 2,
+            "cart_icon": 6,
+            "social_links": 4,
+            "hero_section": 4,
+            "featured_products": 1
+          }
+        },
+        {
+          "step": 2,
+          "action": "browse_products",
+          "url": "https://dnmeg.com/collections/all",
+          "time_spent": 0.25,
+          "success": true,
+          "products_found": 11
+        },
+        {
+          "step": 3,
+          "action": "view_product_details",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.3,
+          "success": true,
+          "product_analysis": {
+            "product_title": true,
+            "price_display": true,
+            "product_images": 20,
+            "size_selector": false,
+            "add_to_cart_button": false,
+            "product_description": true,
+            "reviews_section": false,
+            "stock_status": [
+              "Sold out",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Variant sold out or unavailable",
+              "Sold out"
+            ],
+            "shipping_info": false
+          }
+        },
+        {
+          "step": 4,
+          "action": "add_to_cart",
+          "url": "https://dnmeg.com/products/perfect-baggy-jeans-in-blue",
+          "time_spent": 0.5,
+          "success": false,
+          "issues": [
+            "No add to cart button found"
+          ]
+        }
+      ],
+      "total_time": 0.92,
+      "converted": false,
+      "cart_value": 0,
+      "abandonment_point": "add_to_cart",
+      "abandonment_reason": [
+        "No add to cart button found"
+      ]
+    }
+  ],
+  "conversion_funnel": {
+    "homepage_visitors": 20,
+    "product_browsers": 12,
+    "product_viewers": 11,
+    "cart_adders": 6,
+    "checkout_starters": 0,
+    "converted_users": 0,
+    "browse_rate": 60.0,
+    "view_rate": 55.0,
+    "cart_rate": 30.0,
+    "checkout_rate": 0.0,
+    "conversion_rate": 0.0
+  },
+  "friction_points": [
+    {
+      "point": "homepage",
+      "count": 8,
+      "percentage": 40.0
+    },
+    {
+      "point": "add_to_cart",
+      "count": 6,
+      "percentage": 30.0
+    },
+    {
+      "point": "product_view",
+      "count": 5,
+      "percentage": 25.0
+    },
+    {
+      "point": "product_browse",
+      "count": 1,
+      "percentage": 5.0
+    }
+  ],
+  "user_flows": [],
+  "abandonment_reasons": [
+    {
+      "reason": "Bounced immediately",
+      "count": 8,
+      "percentage": 40.0
+    },
+    {
+      "reason": "No add to cart button found",
+      "count": 6,
+      "percentage": 30.0
+    },
+    {
+      "reason": "No purchase intent",
+      "count": 5,
+      "percentage": 25.0
+    },
+    {
+      "reason": "Left products page",
+      "count": 1,
+      "percentage": 5.0
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "user_experience",
+      "priority": "high",
+      "title": "تحسين استكشاف المنتجات",
+      "description": "معدل الاستكشاف الحالي: 60.0% - يجب تحسينه لأكثر من 70%",
+      "expected_impact": "زيادة عدد المستخدمين الذين يستكشفون المنتجات",
+      "implementation_difficulty": "medium"
+    },
+    {
+      "category": "conversion",
+      "priority": "critical",
+      "title": "تحسين معدل التحويل",
+      "description": "معدل التحويل الحالي: 0.0% - يجب تحسينه لأكثر من 2%",
+      "expected_impact": "زيادة المبيعات والإيرادات",
+      "implementation_difficulty": "high"
+    },
+    {
+      "category": "user_experience",
+      "priority": "high",
+      "title": "معالجة نقطة الاحتكاك الرئيسية: homepage",
+      "description": "40.0 من المستخدمين يتوقفون عند هذه النقطة",
+      "expected_impact": "تقليل معدل التخلي وزيادة التحويل",
+      "implementation_difficulty": "medium"
+    }
+  ]
+}

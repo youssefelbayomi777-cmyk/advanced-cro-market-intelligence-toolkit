@@ -185,17 +185,38 @@ python src/reviews_inventory_analyzer.py
 - **Impact Measurement** - Quantified improvements
 - **Strategic Planning** - Long-term roadmap
 
-## 📞 Contact & Support
+## 📞 Contact & Portfolio
 
 ### **👨‍💻 Author**
-- **Name:** CRO & Market Intelligence Analyst
-- **Skills:** Python, Data Analysis, CRO, UX Research
-- **Expertise:** E-commerce optimization, Web scraping, Performance analysis
+- **Name:** Youssef Mohamed El Bayoumi
+- **Title:** Senior CRO & Market Intelligence Analyst
+- **Skills:** Python, Data Analysis, CRO, UX Research, Web Scraping, Performance Optimization
+- **Expertise:** E-commerce optimization, Real-time data extraction, Multi-dimensional analysis
+
+### **🌐 Portfolio Links**
+- **🔗 GitHub:** https://github.com/youssefelbayomi777-cmyk/advanced-cro-market-intelligence-toolkit
+- **💼 LinkedIn:** https://linkedin.com/in/youssef-mohamed-el-bayoumi
+- **📧 Projects:** https://github.com/youssefelbayomi777-cmyk
+- **📧 Email:** youssefelbayomi777-cmyk@example.com
+
+### **🎯 Key Projects**
+1. **🚀 Advanced CRO & Market Intelligence Toolkit** (Current Project)
+   - 6 custom analysis tools
+   - Real-time data extraction
+   - 123% growth opportunity identified
+   - Repository: https://github.com/youssefelbayomi777-cmyk/advanced-cro-market-intelligence-toolkit
+
+2. **📊 E-commerce Performance Optimization** (Previous Projects)
+   - Technical performance analysis
+   - User behavior simulation
+   - Conversion rate optimization
+   - Available upon request
 
 ### **📧 Project Inquiries**
-- **GitHub:** [Repository Link]
-- **LinkedIn:** [Profile Link]
-- **Email:** [Contact Email]
+- **GitHub:** https://github.com/youssefelbayomi777-cmyk/advanced-cro-market-intelligence-toolkit
+- **LinkedIn:** https://linkedin.com/in/youssef-mohamed-el-bayoumi
+- **Email:** youssefelbayomi777-cmyk@example.com
+- **Phone:** +20 XXX XXX XXXX
 
 ## 📄 License
 

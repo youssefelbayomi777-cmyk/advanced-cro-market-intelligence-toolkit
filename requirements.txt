@@ -20,10 +20,10 @@ time-machine>=2.13.0
 selenium>=4.15.0
 webdriver-manager>=4.0.0
 
-# Data visualization (NEW - Dashboard)
-plotly>=5.17.0
+# Data visualization (optional)
 matplotlib>=3.7.0
 seaborn>=0.12.0
+plotly>=5.17.0
 
 # Report generation
 jinja2>=3.1.0
@@ -38,7 +38,7 @@ flake8>=6.1.0
 cryptography>=41.0.0
 certifi>=2023.7.0
 
-# Optional: Machine learning for advanced analysis (NEW - AI Engine)
+# Optional: Machine learning for advanced analysis
 scikit-learn>=1.3.0
 nltk>=3.8.0
 
@@ -46,7 +46,7 @@ nltk>=3.8.0
 scrapy>=2.11.0
 aiohttp>=3.8.0
 
-# Optional: Database support (NEW - Monitoring)
+# Optional: Database support
 sqlalchemy>=2.0.0
 sqlite3
 
@@ -58,19 +58,6 @@ uvicorn>=0.23.0
 python-dotenv>=1.0.0
 pyyaml>=6.0.1
 
-# Optional: Logging and monitoring (NEW - Monitoring)
+# Optional: Logging and monitoring
 loguru>=0.7.0
 prometheus-client>=0.17.0
-
-# Optional: Email notifications (NEW - Monitoring)
-smtplib
-
-# Optional: System monitoring (NEW - Monitoring)
-psutil>=5.9.0
-schedule>=1.2.0
-
-# Optional: Threading (NEW - Monitoring)
-threading
-
-# Optional: Shutil for disk operations (NEW - Monitoring)
-shutil
